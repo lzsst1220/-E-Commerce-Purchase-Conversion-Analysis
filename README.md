@@ -9,6 +9,13 @@ This project investigates the behavioral drivers of online purchase conversion u
 
 The study applies exploratory data analysis, feature engineering, statistical modeling, clustering, and data visualization to understand how browsing behavior relates to purchase outcomes.
 
+## Dataset
+
+This project uses the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository.
+
+Dataset Link:
+https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+
 ## Methods
 
 - Data Cleaning and Quality Audit
